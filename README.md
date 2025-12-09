@@ -7,3 +7,5 @@ For the test/validation dataset (1 show each dataset), each has 4 episodes. (40 
 
 Each snippet has 40s. The snippet is selected randomly from the episodes and they don’t overlap with each other.
 
+# Details
+We have raw data but it's very large so we only uploaded the snippets and csv files after ASR.
